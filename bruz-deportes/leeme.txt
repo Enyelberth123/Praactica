@@ -1,0 +1,20 @@
+In2403
+nombre: Enyelberth Gutierrez
+C.I. 30125995
+Programacion II
+
+Profe tuve complicaciones para enviarle este link mediante github pero al menos lo hice por lo menos
+si quieres me corriges si quieres no, porque la hora en la cual le estoy enviando esto es demasiado tarde
+para lo estipulado y requerimientos que pidio que era hasta las 6pm ni mas ni menos
+
+si me lo corriges se lo agradezco de antemano en serio, de lo contrario bueno se intento por lo menos.
+
+6:10pm hora que se esta subiendo este archivo
+
+para ejecutarlo y visualizar como se ve, porque me falto cositas en la parte principal es con:
+
+http://localhost/bruz-deportes/public/productos
+
+asegurate de tener el sql importado en phpmyadmin que esta hay mismo para que funcione correctamente.
+
+sin mas nada que decir gracias saludos
